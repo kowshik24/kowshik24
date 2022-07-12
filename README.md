@@ -1,5 +1,4 @@
-<!-- ![MasterHead height="20"](Python-Web-Development.gif) -->
-<img align="center" alt="Coding" src="Python-Web-Development.gif">
+ ![MasterHead height="20"](Python-Web-Development.gif)
 <h1 align="center">Hi 👋, I'm Kowshik Deb Nath</h1>
 
 <h3 align="center">A passionate learner and developer Machine Learning & Deep Learning from Bangladesh</h3>
