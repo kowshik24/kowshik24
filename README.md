@@ -1,4 +1,4 @@
-[![MasterHead](https://gifer.com/en/9WsF)]
+![MasterHead](Python-Web-Development.gif)
 
 <h1 align="center">Hi 👋, I'm Kowshik Deb Nath</h1>
 
