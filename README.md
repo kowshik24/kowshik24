@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kowshik Deb Nath</h1>
 
 <h3 align="center">A passionate learner and developer Machine Learning & Deep Learning from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+gif+images+coding+python&tbm=isch&ved=2ahUKEwihyf3lm_P4AhUridgFHQHDAtcQ2-cCegQIABAA&oq=animated+gif+images+coding+python&gs_lcp=CgNpbWcQAzoECCMQJzoGCAAQHhAIUNAFWOw8YJc_aARwAHgAgAGIAogBnxCSAQYwLjExLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=_1bNYuHNK6uS4t4PgYaLuA0&bih=718&biw=1536#imgrc=dJAYuASTtMndcM&imgdii=XialIsv7hGa1mM">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4502924-Python-developer-animation">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kowshik24&label=Profile%20views&color=0e75b6&style=flat" alt="kowshik24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/debkowshik" target="blank"><img src="https://img.shields.io/twitter/follow/debkowshik?logo=twitter&style=for-the-badge" alt="debkowshik" /></a> </p>
