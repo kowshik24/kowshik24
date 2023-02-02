@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Machine Learning/Competitve Programing/Tech**
 
-- 📫 How to reach me **kowshikcseruet1998@gmail.com https://bannjon.blogspot.com**
+- 📫 How to reach me **kowshikcseruet1998@gmail.com https://kowshik24.github.io/kowshik.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
