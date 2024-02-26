@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/debkowshik" target="blank"><img src="https://img.shields.io/twitter/follow/debkowshik?logo=twitter&style=for-the-badge" alt="debkowshik" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow,Keras**
+- 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on **Mechine Learning Practices, Kaggle Competitions, Competitive Programming**
+- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, Generative AI**
 
 - 💬 Ask me about **Machine Learning/Competitve Programing/Tech**
 
