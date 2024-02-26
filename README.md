@@ -1,7 +1,7 @@
- ![MasterHead height="20"](Python-Web-Development.gif)
-<h1 align="center">Hi 👋, I'm Kowshik Deb Nath</h1>
+ <!--![MasterHead height="20"](Python-Web-Development.gif)!-->
+<h1 align="center">Hi 👋, I'm Kowshik</h1>
 
-<h3 align="center">A passionate learner and developer Machine Learning & Deep Learning from Bangladesh</h3>
+<h3 align="center">A passionate learner and developer Machine Learning & Deep Learning</h3>
 <img align="right" alt="Coding" width="400" src="image_processing20210909-29286-dr58yz.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kowshik24&label=Profile%20views&color=0e75b6&style=flat" alt="kowshik24" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, Generative AI**
 
-- 💬 Ask me about **Machine Learning/Competitve Programing/Tech**
+- 💬 Ask me about **Machine Learning/Generative AI/Tech**
 
 - 📫 How to reach me **kowshikcseruet1998@gmail.com https://kowshik24.github.io/kowshik.github.io/**
 
