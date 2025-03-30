@@ -1,5 +1,5 @@
  <!--![MasterHead height="20"](Python-Web-Development.gif)!-->
-<h1 align="center">Hi 👋, I'm Kowshik</h1>
+<h1 align="center">Hi 👋, I'm Koshik Debanath</h1>
 
 <h3 align="center">A passionate learner and developer Machine Learning & Deep Learning</h3>
 <img align="right" alt="Coding" width="400" src="image_processing20210909-29286-dr58yz.gif">
