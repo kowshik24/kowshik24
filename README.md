@@ -13,7 +13,9 @@
 
 - 💬 Ask me about **Machine Learning/Generative AI/Tech**
 
-- 📫 How to reach me **koshik.debanath@gmail.com https://kowshik24.github.io/kowshik.github.io/**
+- 📫 How to reach me **koshik.debanath@gmail.com** 
+- Website: **https://kowshik24.github.io/kowshik.github.io/**
+- Or here -> **https://linktr.ee/koshikdebanath**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
