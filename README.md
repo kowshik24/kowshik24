@@ -17,6 +17,13 @@
 - Website: **https://kowshik24.github.io/kowshik.github.io/**
 - Or here -> **https://linktr.ee/koshikdebanath**
 
+
+- Currently working on:
+1. [Loom Clone](https://github.com/kowshik24/loom-clone)
+2. [PaperToCode](https://github.com/kowshik24/papertocode)
+3. [Atomic Sync](https://github.com/kowshik24/atomic-sync)
+4. [FOMI](https://github.com/kowshik24/fomi)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/debkowshik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debkowshik" height="30" width="40" /></a>
