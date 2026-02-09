@@ -1,69 +1,80 @@
- <!--![MasterHead height="20"](Python-Web-Development.gif)!-->
-<h1 align="center">Hi 👋, I'm Koshik Debanath</h1>
+# Hi, I'm Koshik 👋
 
-<h3 align="center">A passionate learner and developer Machine Learning & Deep Learning</h3>
-<img align="right" alt="Coding" width="400" src="image_processing20210909-29286-dr58yz.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kowshik24&label=Profile%20views&color=0e75b6&style=flat" alt="kowshik24" /> </p>
+📍 **Bangladesh ↔ Remote** | 🧠 **GenAI Researcher** | 🛠️ **Full Stack ML Engineer**
 
-<p align="left"> <a href="https://twitter.com/debkowshik" target="blank"><img src="https://img.shields.io/twitter/follow/debkowshik?logo=twitter&style=for-the-badge" alt="debkowshik" /></a> </p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-- 🌱 I’m currently learning **Generative AI**
+> Bridging the gap between complex reasoning research and production-grade AI. Building novel multi-modal models and shipping open-source tools.
 
-- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, Generative AI**
+🔭 **[Portfolio](https://kowshik24.github.io/kowshik.github.io/)** – My research, projects, and journey.
 
-- 💬 Ask me about **Machine Learning/Generative AI/Tech**
+## Current Projects
 
-- 📫 How to reach me **koshik.debanath@gmail.com** 
-- Website: **https://kowshik24.github.io/kowshik.github.io/**
-- Or here -> **https://linktr.ee/koshikdebanath**
+- ⚡ **[FOMI](https://github.com/kowshik24/fomi)** - Frequency-Optimized Manifold Indexing. High-performance library for image vector similarity search & clustering.
+- 🔄 **[Atomic Sync](https://github.com/kowshik24/atomic-sync)** - Real-time, end-to-end encrypted sync for Obsidian using Supabase.
+- 📄 **[PaperToCode](https://github.com/kowshik24/papertocode)** - Converts research papers into executable code implementations using GenAI.
+- 📹 **[Loom Clone](https://github.com/kowshik24/loom-clone)** - Cloud-native video messaging platform with direct Google Drive storage integration.
+- 🕵️ **[SynthDetect Ultra](https://github.com/kowshik24)** - Forensic analysis tool distinguishing authentic photos from AI-generated media (GANs/Diffusion).
+- 🧠 **[Obsidian AI Plugin](https://github.com/kowshik24)** - Context-aware AI assistant with multi-file context and streaming, built for Obsidian users.
+- 💹 **[Binance AI Agent](https://github.com/kowshik24)** - Multi-agent system providing crypto investment recommendations via OpenAI/Gemini APIs.
+- 🇧🇩 **[Bengali Semantic Retrieval](https://github.com/kowshik24)** - Optimizing retrieval for low-resource languages using Matryoshka Representation Learning.
+- 📉 **[Stock Forecast BD](https://github.com/kowshik24)** - LSTM models forecasting stock prices for Bangladeshi and global markets.
+- 🧩 **[PineconeUtils](https://pypi.org/user/kowshik24)** - Authored two Python libraries to simplify data handling for RAG systems.
 
+## Open Source Contributions
 
-- Currently working on:
-1. [Loom Clone](https://github.com/kowshik24/loom-clone)
-2. [PaperToCode](https://github.com/kowshik24/papertocode)
-3. [Atomic Sync](https://github.com/kowshik24/atomic-sync)
-4. [FOMI](https://github.com/kowshik24/fomi)
+- 🛠️ **[OpenLLMetry](https://github.com/traceloop/openllmetry)** - Fixed serialization bugs for Python dataclasses and TypeErrors in OpenAI embeddings metrics (PR #2800, #1836).
+- 🌲 **[Pinecone Canopy](https://github.com/pinecone-io/canopy)** - Contributed to the Retrieval-Augmented Generation (RAG) framework.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/debkowshik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debkowshik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kowshik-deb-nath-99b077190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kowshik-deb-nath-99b077190/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/kowshikdebnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kowshikdebnath" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/viperous.kowshik18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/viperous.kowshik18/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kowshik_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kowshik_6" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/koshik1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/koshik1998" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/kowshikcseruet11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kowshikcseruet11" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/j-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/j-k" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kowshik_24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kowshik_24/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@kowshik29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@kowshik29" height="30" width="40" /></a>
-</p>
+## Selected Publications
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- BLOG-POST-LIST:START -->
+- **[Mathematical Biosciences]** Bayesian Physics-Informed Neural Networks for Parameter Inference in Wound Healing (Under Review, 2025)
+- **[TALLIP]** Optimizing Semantic Retrieval for Bengali: A Comparative Analysis (Under Review)
+- **[ICCIT 2023]** An Attention-Based Deep Learning Approach to Knee Injury Classification from MRI Images
+- **[ECCE 2025]** Advancing Low-Resource NLP: Contextual Question Answering for Bengali Language Using Llama
+- **[NCIM 2025]** Distinguishing Human-Written and AI-Generated Text: A Comprehensive Study Using XAI
+<!-- BLOG-POST-LIST:END -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowshik24&show_icons=true&locale=en&layout=compact" alt="kowshik24" /></p>
+## Achievements
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kowshik24&show_icons=true&locale=en" alt="kowshik24" /></p>
+- 🏆 **Hackathon Champion** at Machine Hack (Global Rank 539/8,861)
+- 🥈 **Top 7** in Data Science Student Championship (1,000+ participants)
+- 🥉 **3rd Place** Rental Bikes Volume Prediction Hackathon
+- 🎓 **Analytics Olympiad 2022** - Ranked 82nd out of 1,029 participants
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## GitHub Activity
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kowshik24)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Contribution Graph](https://ghchart.rshah.org/kowshik24)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kowshik24)  
+## Connect
 
-![GitHub metrics](https://metrics.lecoq.io/kowshik24)  
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:koshik.debanath@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kowshik-deb-nath-99b077190/)
+[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/debkowshik)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/kowshikdebnath)
 
+---
 
+<details>
+<summary>Random Facts</summary>
 
+- 🧠 Research focus: **Explainable AI (XAI)** and **Low-Resource NLP**.
+- 💻 Expert in **Python**, but currently building decentralized governance platforms with **Solidity & React**.
+- 📚 Researcher at **Young Learners' Research Lab (YLRL)**.
+- ⚡ Focused on optimizing LLMs via **Matryoshka Representation Learning**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kowshik24&" alt="kowshik24" /></p>
+</details>
 
-
-<h3 align="center">🌍 Visitors</h3>
 <p align="center">
-  <a href="https://info.flagcounter.com/i2Dz">
-    <img src="https://s01.flagcounter.com/count2/i2Dz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kowshik24&label=Profile%20Views&color=0e75b6&style=flat-square" alt="kowshik24" />
 </p>
-
-
