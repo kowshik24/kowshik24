@@ -58,9 +58,9 @@
 ## Connect
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:koshik.debanath@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kowshik-deb-nath-99b077190/)
-[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/debkowshik)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kowshik24/)
+[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=U6CRjb8AAAAJ&hl=en)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/DebKowshik)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/kowshikdebnath)
 
 ---
@@ -68,7 +68,7 @@
 <details>
 <summary>Random Facts</summary>
 
-- 🧠 Research focus: **Explainable AI (XAI)** and **Low-Resource NLP**.
+- 🧠 Research focus: **Explainable AI (XAI)**, **Low-Resource NLP**, **Large Languge Models(LLMs)** and **ML/DL**.
 - 💻 Expert in **Python**, but currently building decentralized governance platforms with **Solidity & React**.
 - 📚 Researcher at **Young Learners' Research Lab (YLRL)**.
 - ⚡ Focused on optimizing LLMs via **Matryoshka Representation Learning**.
