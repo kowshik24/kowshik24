@@ -17,7 +17,7 @@
 🔭 **[Portfolio](https://kowshik24.github.io/kowshik.github.io/)** – My research, projects, and journey.
 
 ## Current Projects
-
+- 🏠 **[HomeOps](https://github.com/kowshik24/HomeOps)** - An iOS app that is essentially a "Digital Glovebox" for the home. 
 - ⚡ **[FOMI](https://github.com/kowshik24/fomi)** - Frequency-Optimized Manifold Indexing. High-performance library for image vector similarity search & clustering.
 - 🔄 **[Atomic Sync](https://github.com/kowshik24/atomic-sync)** - Real-time, end-to-end encrypted sync for Obsidian using Supabase.
 - 📄 **[PaperToCode](https://github.com/kowshik24/papertocode)** - Converts research papers into executable code implementations using GenAI.
