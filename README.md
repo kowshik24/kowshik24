@@ -51,10 +51,19 @@
 - 🥈 **Top 7** in Data Science Student Championship (1,000+ participants)
 - 🥉 **3rd Place** Rental Bikes Volume Prediction Hackathon
 - 🎓 **Analytics Olympiad 2022** - Ranked 82nd out of 1,029 participants
-
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/kowshik24)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kowshik24&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kowshik24&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kowshik24&theme=github_dark&utcOffset=6" />
+</p>
 
 ## Connect
 
