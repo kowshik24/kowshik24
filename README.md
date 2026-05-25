@@ -24,7 +24,7 @@
 - 📄 **[PaperToCode](https://github.com/kowshik24/papertocode)** - Converts research papers into executable code implementations using GenAI.
 - 📹 **[Loom Clone](https://github.com/kowshik24/loom-clone)** - Cloud-native video messaging platform with direct Google Drive storage integration.
 - 🕵️ **[SynthDetect Ultra](https://github.com/kowshik24)** - Forensic analysis tool distinguishing authentic photos from AI-generated media (GANs/Diffusion).
-- 🧠 **[Obsidian AI Plugin](https://github.com/kowshik24)** - Context-aware AI assistant with multi-file context and streaming, built for Obsidian users.
+- 🧠 **[Obsidian AI Plugin](obsidian://show-plugin?id=ai-companion)** - Context-aware AI assistant with multi-file context and streaming, built for Obsidian users.
 - 💹 **[Binance AI Agent](https://github.com/kowshik24)** - Multi-agent system providing crypto investment recommendations via OpenAI/Gemini APIs.
 - 🇧🇩 **[Bengali Semantic Retrieval](https://github.com/kowshik24)** - Optimizing retrieval for low-resource languages using Matryoshka Representation Learning.
 - 📉 **[Stock Forecast BD](https://github.com/kowshik24)** - LSTM models forecasting stock prices for Bangladeshi and global markets.
