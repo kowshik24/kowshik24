@@ -29,7 +29,7 @@
 - 🇧🇩 **[Bengali Semantic Retrieval](https://github.com/kowshik24)** - Optimizing retrieval for low-resource languages using Matryoshka Representation Learning.
 - 📉 **[Stock Forecast BD](https://github.com/kowshik24)** - LSTM models forecasting stock prices for Bangladeshi and global markets.
 - 🧩 **[PineconeUtils](https://pypi.org/user/kowshik24)** - Authored two Python libraries to simplify data handling for RAG systems.
-
+- 🎥 **[Loom Local](https://github.com/kowshik24/loom)** - An opensource alternative to Loom extenstion, that shoot screen recording and save locally. 
 ## Open Source Contributions
 
 - 🛠️ **[OpenLLMetry](https://github.com/traceloop/openllmetry)** - Fixed serialization bugs for Python dataclasses and TypeErrors in OpenAI embeddings metrics (PR #2800, #1836).
