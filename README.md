@@ -1,6 +1,7 @@
 # Hi, I'm Koshik 👋
 
-📍 **Bangladesh ↔ Remote** | 🧠 **GenAI Researcher** | 🛠️ **Full Stack ML Engineer**
+🎓 **PhD Student & Graduate Research Assistant @ South Dakota State University**  
+🧠 **AI/ML Researcher** | 🔍 **Explainable AI** | 👁️ **Computer Vision** | 💬 **NLP & LLMs** | 🛠️ **ML Engineer**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -12,46 +13,62 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-> Bridging the gap between complex reasoning research and production-grade AI. Building novel multi-modal models and shipping open-source tools.
+I'm a PhD student in Computer Science and Graduate Research Assistant at **South Dakota State University (SDSU)**. My research interests span **Explainable AI (XAI), Computer Vision, Natural Language Processing, Large Language Models, and Generative AI**.
 
-🔭 **[Portfolio](https://kowshik24.github.io/kowshik.github.io/)** – My research, projects, and journey.
+I enjoy working at the intersection of research and engineering: exploring new ideas, implementing them, and building AI systems that work beyond the notebook.
 
-## Current Projects
-- ⚙️ **[ConfigSync](https://github.com/kowshik24/configsync)** - A CLI that treats configuration as code, with versioning, diffing, and team-wide enforcement.
-- 🏠 **[HomeOps](https://github.com/kowshik24/HomeOps)** - An iOS app that is essentially a "Digital Glovebox" for the home. 
-- ⚡ **[FOMI](https://github.com/kowshik24/fomi)** - Frequency-Optimized Manifold Indexing. High-performance library for image vector similarity search & clustering.
-- 🔄 **[Atomic Sync](https://github.com/kowshik24/atomic-sync)** - Real-time, end-to-end encrypted sync for Obsidian using Supabase.
-- 📄 **[PaperToCode](https://github.com/kowshik24/papertocode)** - Converts research papers into executable code implementations using GenAI.
-- 📹 **[Loom Clone](https://github.com/kowshik24/loom-clone)** - Cloud-native video messaging platform with direct Google Drive storage integration.
-- 🕵️ **[SynthDetect Ultra](https://github.com/kowshik24)** - Forensic analysis tool distinguishing authentic photos from AI-generated media (GANs/Diffusion).
-- 🧠 **[Obsidian AI Plugin](obsidian://show-plugin?id=ai-companion)** - Context-aware AI assistant with multi-file context and streaming, built for Obsidian users.
-- 💹 **[Binance AI Agent](https://github.com/kowshik24)** - Multi-agent system providing crypto investment recommendations via OpenAI/Gemini APIs.
-- 🇧🇩 **[Bengali Semantic Retrieval](https://github.com/kowshik24)** - Optimizing retrieval for low-resource languages using Matryoshka Representation Learning.
-- 📉 **[Stock Forecast BD](https://github.com/kowshik24)** - LSTM models forecasting stock prices for Bangladeshi and global markets.
-- 🧩 **[PineconeUtils](https://pypi.org/user/kowshik24)** - Authored two Python libraries to simplify data handling for RAG systems.
-- 🎥 **[Loom Local](https://github.com/kowshik24/loom)** - An opensource alternative to Loom extenstion, that shoot screen recording and save locally. 
-## Open Source Contributions
+🔭 **[Portfolio](https://kowshik24.github.io/kowshik.github.io/)** – Research, projects, publications, and more.
 
-- 🛠️ **[OpenLLMetry](https://github.com/traceloop/openllmetry)** - Fixed serialization bugs for Python dataclasses and TypeErrors in OpenAI embeddings metrics (PR #2800, #1836).
-- 🌲 **[Pinecone Canopy](https://github.com/pinecone-io/canopy)** - Contributed to the Retrieval-Augmented Generation (RAG) framework.
+## 🔬 Research Interests
 
-## Selected Publications
+- Explainable AI (XAI)
+- Computer Vision
+- Natural Language Processing
+- Large Language Models (LLMs)
+- Generative AI
+- Multimodal Learning
+- Low-Resource NLP
+- Machine Learning & Deep Learning
+
+## 🚀 Current Projects
+
+- ⚙️ **[ConfigSync](https://github.com/kowshik24/configsync)** – CLI that treats configuration as code with versioning, diffing, and team-wide enforcement.
+- 🏠 **[HomeOps](https://github.com/kowshik24/HomeOps)** – An iOS "digital glovebox" for managing home-related information.
+- ⚡ **[FOMI](https://github.com/kowshik24/fomi)** – Frequency-Optimized Manifold Indexing for image vector similarity search and clustering.
+- 🔄 **[Atomic Sync](https://github.com/kowshik24/atomic-sync)** – Real-time, end-to-end encrypted sync for Obsidian using Supabase.
+- 📄 **[PaperToCode](https://github.com/kowshik24/papertocode)** – Converts research papers into executable implementations using Generative AI.
+- 📹 **[Loom Clone](https://github.com/kowshik24/loom-clone)** – Cloud-native video messaging platform with Google Drive storage integration.
+- 🕵️ **[SynthDetect Ultra](https://github.com/kowshik24)** – Forensic analysis tool for distinguishing authentic images from AI-generated media.
+- 🧠 **[Obsidian AI Plugin](obsidian://show-plugin?id=ai-companion)** – Context-aware AI assistant with multi-file context and streaming.
+- 💹 **[Binance AI Agent](https://github.com/kowshik24)** – Multi-agent system for AI-assisted cryptocurrency market analysis.
+- 🇧🇩 **[Bengali Semantic Retrieval](https://github.com/kowshik24)** – Semantic retrieval for low-resource languages using Matryoshka Representation Learning.
+- 📉 **[Stock Forecast BD](https://github.com/kowshik24)** – LSTM-based stock price forecasting for Bangladeshi and global markets.
+- 🧩 **[PineconeUtils](https://pypi.org/user/kowshik24)** – Python libraries simplifying data handling for RAG systems.
+- 🎥 **[Loom Local](https://github.com/kowshik24/loom)** – Open-source Loom alternative for local screen recording.
+
+## 🌱 Open Source Contributions
+
+- 🛠️ **[OpenLLMetry](https://github.com/traceloop/openllmetry)** – Fixed serialization issues for Python dataclasses and TypeErrors in OpenAI embedding metrics (PR #2800, #1836).
+- 🌲 **[Pinecone Canopy](https://github.com/pinecone-io/canopy)** – Contributed to the Retrieval-Augmented Generation (RAG) framework.
+
+## 📚 Selected Publications
 
 <!-- BLOG-POST-LIST:START -->
-- **[Mathematical Biosciences]** Bayesian Physics-Informed Neural Networks for Parameter Inference in Wound Healing (Under Review, 2025)
-- **[TALLIP]** Optimizing Semantic Retrieval for Bengali: A Comparative Analysis (Under Review)
-- **[ICCIT 2023]** An Attention-Based Deep Learning Approach to Knee Injury Classification from MRI Images
-- **[ECCE 2025]** Advancing Low-Resource NLP: Contextual Question Answering for Bengali Language Using Llama
+- **[ACM TALLIP]** Optimizing Semantic Retrieval for Bengali: A Comparative Analysis
+- **[Mathematical Biosciences]** Bayesian Physics-Informed Neural Networks for Parameter Inference in Wound Healing
+- **[IEEE ICCIT 2023]** An Attention-Based Deep Learning Approach to Knee Injury Classification from MRI Images
+- **[IEEE ECCE 2025]** Advancing Low-Resource NLP: Contextual Question Answering for Bengali Language Using Llama
 - **[NCIM 2025]** Distinguishing Human-Written and AI-Generated Text: A Comprehensive Study Using XAI
 <!-- BLOG-POST-LIST:END -->
 
-## Achievements
+## 🏆 Achievements
 
-- 🏆 **Hackathon Champion** at Machine Hack (Global Rank 539/8,861)
+- 🏆 **Hackathon Champion** at Machine Hack
 - 🥈 **Top 7** in Data Science Student Championship (1,000+ participants)
-- 🥉 **3rd Place** Rental Bikes Volume Prediction Hackathon
-- 🎓 **Analytics Olympiad 2022** - Ranked 82nd out of 1,029 participants
-## GitHub Activity
+- 🥉 **3rd Place** – Rental Bikes Volume Prediction Hackathon
+- 🎓 **Analytics Olympiad 2022** – Ranked 82nd out of 1,029 participants
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kowshik24&theme=github_dark" />
@@ -62,10 +79,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kowshik24&theme=github_dark&utcOffset=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kowshik24&theme=github_dark&utcOffset=-5" />
 </p>
 
-## Connect
+## 🤝 Connect
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:koshik.debanath@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kowshik24/)
@@ -76,12 +93,14 @@
 ---
 
 <details>
-<summary>Random Facts</summary>
+<summary>More About Me</summary>
 
-- 🧠 Research focus: **Explainable AI (XAI)**, **Low-Resource NLP**, **Large Languge Models(LLMs)** and **ML/DL**.
-- 💻 Expert in **Python**, but currently building decentralized governance platforms with **Solidity & React**.
+- 🎓 PhD student in **Computer Science** at South Dakota State University.
+- 🔬 Graduate Research Assistant at **South Dakota State University**.
+- 🧠 Research interests include **Explainable AI, Computer Vision, NLP, LLMs, Generative AI, and Low-Resource NLP**.
+- 💻 Primarily work with **Python**, PyTorch, and modern AI/ML tooling.
 - 📚 Researcher at **Young Learners' Research Lab (YLRL)**.
-- ⚡ Focused on optimizing LLMs via **Matryoshka Representation Learning**.
+- ⚡ Interested in turning research ideas into practical, open-source implementations.
 
 </details>
 
